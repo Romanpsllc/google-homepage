@@ -1,8 +1,15 @@
-
-.activeimages {
-margin-right: 20px;
+nav {
+    display: flex;
 }
 
+li {
+    
+    display: inline;
+}
+
+.rightnav {
+    
+}
 
 img {
  display: block; 
